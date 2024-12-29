@@ -1,0 +1,34 @@
+[
+  {
+    "name": "name",
+    "type": "string"
+  },
+  {
+    "name": "description",
+    "type": "string"
+  },
+  {
+    "name": "price",
+    "type": "integer"
+  },
+  {
+    "name": "players",
+    "type": "integer"
+  },
+  {
+    "name": "duration",
+    "type": "integer"
+  },
+  {
+    "name": "age",
+    "type": "integer"
+  },
+  {
+    "name": "editor",
+    "type": "string"
+  },
+  {
+    "name": "release",
+    "type": "date"
+  }
+]
